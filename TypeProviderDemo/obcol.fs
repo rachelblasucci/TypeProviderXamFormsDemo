@@ -1,0 +1,6 @@
+﻿namespace TypeProviderDemo
+
+
+module observables = 
+
+
